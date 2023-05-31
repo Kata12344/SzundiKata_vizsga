@@ -1,0 +1,10 @@
+
+.cim{
+    font-weight: bold;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    /* flex-wrap: wrap; */
+}
